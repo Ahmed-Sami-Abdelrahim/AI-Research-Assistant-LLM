@@ -2,6 +2,8 @@
 
 AI Research Assistant LLM is a **Retrieval-Augmented Generation (RAG)** system designed to help researchers quickly find answers using **academic papers from ArXiv**. It utilizes **FAISS indexing** for fast retrieval and **GPT-based text generation** for accurate responses.
 
+![UI](https://github.com/user-attachments/assets/8d458104-1a19-4688-9a25-7252ce0939a9)
+
 ---
 
 ## **Features**  
